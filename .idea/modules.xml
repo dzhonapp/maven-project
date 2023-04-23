@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/maven-project.iml" filepath="$PROJECT_DIR$/.idea/maven-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/saucedemo.iml" filepath="$PROJECT_DIR$/saucedemo.iml" />
     </modules>
   </component>
 </project>
