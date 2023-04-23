@@ -112,13 +112,11 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- https://mvnrepository.casdfasdfom/artifact/com.aventstack/extentreports -->
+        <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
         <dependency>
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
             <version>5.0.9</version>
-
-
         </dependency>
 
         <dependency>
